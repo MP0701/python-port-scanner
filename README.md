@@ -30,3 +30,6 @@ python3 port_scanner.py -o scanme.nmap.org -p 80,443
 ## Author
 
 MP0701
+## Disclaimer
+This tool is intended for **educational and ethical cybersecurity testing only**.  
+Do not use it on networks or systems without explicit permission.
